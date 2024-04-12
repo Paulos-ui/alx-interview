@@ -1,8 +1,7 @@
 #!/usr/bin/python3
-'''My solution to N Queens Challenge'''
+'''N Queens Challenge'''
 
 import sys
-
 
 if __name__ == '__main__':
     if len(sys.argv) != 2:
