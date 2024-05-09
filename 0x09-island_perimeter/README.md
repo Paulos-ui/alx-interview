@@ -1,7 +1,7 @@
 # 0x09. Island Perimeter
 
 ## Tasks
-Create a function def island_perimeter(grid): that returns the perimeter of the island described in grid:
++ Create a function def island_perimeter(grid): that returns the perimeter of the island described in grid:
 
     grid is a list of list of integers:
         0 represents water
